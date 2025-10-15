@@ -4,7 +4,7 @@ STUDENT NUMBER : ST10386798
 
 This native Android app, built with Kotlin in Android Studio,will helps users study history using flashcards. It which will just ask five true-or-false questions, and tracks your answers, and gives personalized feedback at the end.
 
-github code:
+github code: https://github.com/amatshaya/Quiz-App.git
 
 youtube link:
 
